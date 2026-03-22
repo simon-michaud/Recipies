@@ -14,7 +14,7 @@ layout: recipe
 
 - 15 garlic cloves
 - 1 onion
-- 1.5L (approx. 2 x 796ml cans) diced tomatoes
+- 1.5L diced tomatoes
 - 1 tsp black pepper
 - 1 tbsp curry powder
 - 1 tbsp turmeric
