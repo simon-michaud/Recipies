@@ -1,7 +1,7 @@
 ---
 layout: recipe
 ---
-[< Back](../README.md)
+[Back](../README.md)
 
 # Brownie Mix in a Jar
 

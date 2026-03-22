@@ -1,7 +1,7 @@
 ---
 layout: recipe
 ---
-[< Back](../README.md)
+[Back](../README.md)
 
 # Chocolate Cookie Mix in a Jar
 
