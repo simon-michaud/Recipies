@@ -100,14 +100,6 @@ body {
   flex-shrink: 0;
 }
 
-.site-tagline {
-  font-family: 'Lora', Georgia, serif;
-  font-style: italic;
-  font-size: 0.9rem;
-  color: #c4a882;
-  letter-spacing: 0.05em;
-}
-
 /* ============================================
    MAIN CONTENT
    ============================================ */
