@@ -8,6 +8,7 @@
 - [Vegetable Nugets](./recipies/vegetable-nugets.md)
 - [Crispy Chickpea Friters](./recipies/crispy-chickpea-friters.md)
 - [Fèves Sopressata](./recipies/feves-sopressata.md)
+- [Greek Pork Souvlaki](./recipies/greek-pork-souvlaki.md)
 
 ## Deserts
 
