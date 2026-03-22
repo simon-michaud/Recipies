@@ -1,3 +1,6 @@
+---
+layout: recipe
+---
 [< Back](../README.md)
 
 # Vegetable Nuggets

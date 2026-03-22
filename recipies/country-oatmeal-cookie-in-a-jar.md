@@ -1,3 +1,6 @@
+---
+layout: recipe
+---
 [< Back](../README.md)
 
 # Country Oatmeal Cookie in a Jar

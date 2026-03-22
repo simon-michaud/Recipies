@@ -1,3 +1,6 @@
+---
+layout: recipe
+---
 [< Back](../README.md)
 
 # Haricots, tomates et Sopressata

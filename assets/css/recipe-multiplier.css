@@ -1,0 +1,64 @@
+.recipe-multiplier {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 20px 0 16px;
+  padding: 10px 14px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.recipe-mult-label {
+  font-weight: bold;
+  margin-right: 4px;
+  white-space: nowrap;
+}
+
+.mult-buttons {
+  display: flex;
+  gap: 4px;
+}
+
+.mult-btn {
+  padding: 4px 10px;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  background: transparent;
+  color: inherit;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+  transition: background 0.15s, color 0.15s;
+}
+
+.mult-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.mult-btn.active {
+  background: rgba(255, 255, 255, 0.85);
+  color: #333;
+  border-color: rgba(255, 255, 255, 0.85);
+  font-weight: bold;
+}
+
+.mult-input {
+  width: 64px;
+  padding: 4px 6px;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 4px;
+  background: transparent;
+  color: inherit;
+  font-size: 13px;
+}
+
+.mult-input:focus {
+  outline: none;
+  border-color: rgba(255, 255, 255, 0.8);
+}
+
+.recipe-qty {
+  font-weight: bold;
+}
