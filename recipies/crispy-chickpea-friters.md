@@ -1,14 +1,14 @@
 [< Back](../README.md)
 
-# Crispy Chickpea Friters
+# Crispy Chickpea Fritters
 
-**Preperation:** 20 minutes
+**Preparation:** 20 minutes
 
 **Cooking time:** 20 minutes
 
 ## Ingredients
 
-* 1 cup chickpeas
+* 1 cup dried chickpeas
 * 1 clove garlic
 * 1/2 cup chopped fresh cilantro
 * 2 tablespoon all-purpose flour

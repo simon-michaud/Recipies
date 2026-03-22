@@ -2,7 +2,7 @@
 
 # Country Oatmeal Cookie in a Jar
 
-**Preperation:** 15 minutes
+**Preparation:** 15 minutes
 
 **Cooking time:** 15 minutes
 
@@ -17,6 +17,11 @@
 - 1/2 teaspoon salt
 - 1 cup semisweet chocolate chips
 - 1 cup chopped walnuts (optional)
+
+**To bake (attach to jar tag):**
+- 3/4 cup softened butter
+- 2 eggs
+- 1 teaspoon vanilla
 
 ## Directions
 

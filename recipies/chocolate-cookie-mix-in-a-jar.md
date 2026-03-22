@@ -2,21 +2,26 @@
 
 # Chocolate Cookie Mix in a Jar
 
-**Preperation:** 15 minutes
+**Preparation:** 15 minutes
 
 **Cooking time:** 15 minutes
 
 ## Ingredients
 
-* 1 3/4 cups all-purpose flour
-* 1 teaspoon baking powder
-* 1 teaspoon baking soda
-* 1/4 teaspoon salt
 * 3/4 cup dark brown sugar
 * 1/2 cup white sugar
 * 1/4 cup cocoa
 * 1/2 cup chopped pecans
 * 1 cup semi-sweet chocolate chips
+* 1 3/4 cups all-purpose flour
+* 1 teaspoon baking powder
+* 1 teaspoon baking soda
+* 1/4 teaspoon salt
+
+**To bake (attach to jar tag):**
+* 3/4 cup softened butter or margarine
+* 1 egg, slightly beaten
+* 1 teaspoon vanilla
 
 ## Directions
 
